@@ -7,7 +7,7 @@ This is for study purpose only !
 i just give you a very basic code line for discord bot (discord.js)
 develop it by your self
 
-you can make it script to you own discord bot !
+you can paste this script to you own discord bot !
 
 use it for free :)
 
