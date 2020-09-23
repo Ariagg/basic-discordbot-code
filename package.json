@@ -1,0 +1,14 @@
+{
+  "name": "basic code",
+  "version": "1.0.0",
+  "description": "This for the basic code",
+  "main": "basicline.js", //change the name by the main script of your bot
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ariagg", //change this to your name
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
